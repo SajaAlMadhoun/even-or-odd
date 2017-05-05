@@ -1,3 +1,5 @@
+//https://www.youtube.com/watch?v=RDpRV9Gk0wY&feature=youtu.be
+//فيديو لشرح كيفية كتابة هذا الكود
 import java.util.Scanner;
 
 public class EvenOrOdd {
